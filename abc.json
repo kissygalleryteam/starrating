@@ -1,0 +1,14 @@
+{
+    "name": "starrating",
+    "version": "1.1",
+    "desc": "星级打分组件",
+    "cover": "",
+    "tag":"",
+    "author": {
+        "name": "乔花",
+        "email": "shengyan1985@gmail.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
